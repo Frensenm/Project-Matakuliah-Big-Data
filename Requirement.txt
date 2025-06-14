@@ -1,1 +1,7 @@
 # Daftar library Python yang dibutuhkan
+- pandas
+- matplotlib
+- seaborn
+- tabulate
+- geopandas
+- scipy
