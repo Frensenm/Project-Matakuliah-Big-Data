@@ -73,14 +73,14 @@ Dengan menggabungkan semua variabel, saya menemukan beberapa :
 
 ---
 
-## 5. Kesimpulan dan Rekomendasi (The "So What?")
+## 5. Kesimpulan dan Rekomendasi
 
 ### 5.1. Ringkasan Wawasan
 * Faktor aksesibilitas sederhana seperti waktu tempuh dan ketersediaan RS secara umum bukanlah prediktor yang kuat untuk kepesertaan BPJS.
 * **Jenis fasilitas kesehatan terdekat** adalah faktor pembeda yang paling signifikan, di mana faskes berbasis komunitas menunjukkan korelasi positif yang lebih kuat dibandingkan faskes rujukan besar.
 * Keberhasilan program di tingkat akar rumput (seperti yang dijalankan di POLINDES) terbukti lebih berpengaruh daripada sekadar kedekatan geografis.
 
-### 5.2. Rekomendasi (Actionable Insights)
+### 5.2. Rekomendasi
 > Untuk meningkatkan cakupan BPJS, pemerintah daerah disarankan untuk **memperkuat peran dan program pada fasilitas kesehatan primer dan komunitas** (Puskesmas, Pustu, Poskesdes, Polindes) karena memiliki kemungkinan lebih efektif dalam mendorong pendaftaran dan kesadaran masyarakat. Serta perlu diadakan sosialisasi tentang BPJS Kesehatan di tiap Desa di Jawa Barat.
 
 ### 5.3. Keterbatasan dan Pengembangan Selanjutnya
