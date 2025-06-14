@@ -1,3 +1,4 @@
 # Project-Matakuliah-Big-Data
 **Analisis Spasial dan Faktor Aksesibilitas Terhadap Tingkat Kepesertaan BPJS di Jawa Barat (2020)**
+
 Repositori ini merupakan tugas matakuliah Big Data, Study Kasus Analisa Big Data menggunakan pendekatan pengembangan perusahaan atau penyelesaian permasalahan pada suatu perusahaan terkemuka sesuai dengan industri. Industri yang saya pilih yaitu pada industri kesehatan dalam BPJS. Isinya adalah studi kasus analisis data untuk membedah persebaran kepesertaan BPJS Kesehatan di Provinsi Jawa Barat serta menginvestigasi faktor-faktor aksesibilitas yang mempengaruhinya pada tahun 2020. 
