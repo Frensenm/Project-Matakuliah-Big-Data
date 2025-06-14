@@ -29,14 +29,14 @@ Proyek ini dipandu oleh serangkaian pertanyaan, dari yang bersifat umum hingga m
 Proses ini mencakup pembersihan data, penggabungan dataset utama (kependudukan, BPJS, dan sarana).
 
 ### 2.2. Peta Persebaran Kepesertaan BPJS
-Visualisasi geospasial menunjukkan adanya perbedaan yang jelas antara wilayah di Jawa Barat. Wilayah perkotaan dan industri cenderung memiliki warna yang lebih pekat (partisipasi lebih tinggi), sementara beberapa wilayah agraris dan pesisir menunjukkan partisipasi yang lebih rendah.
+Visualisasi geospasial menunjukkan adanya perbedaan yang signifikan dalam cakupan kepesertaan BPJS di seluruh wilayah Jawa Barat pada tahun 2020. Terdapat pola yang jelas dimana konsentrasi kepesertaan tertinggi, yang ditandai dengan warna pekat pada peta. Sebaliknya, wilayah dengan tingkat kepesertaan yang lebih rendah, yang direpresentasikan dengan warna lebih terang.
 
 ![Peta Persebaran BPJS di Jawa Barat](image/peta_persebaran_bpjs_kota_kabupaten.png)
 ![Peta Persebaran BPJS di Jawa Barat](image/peta_persebaran_bpjs_kecamatan.png)
 
 
 ### 2.3. Analisis Deskriptif
-Kabupaten/Kota dengan partisipasi tertinggi umumnya berada di sekitar pusat ekonomi, sedangkan yang terendah tersebar di beberapa wilayah yang lebih rura.
+Berdasarkan peringkat persentase kepesertaan, dapat diidentifikasi secara langsung daerah dengan performa tertinggi dan terendah. Kabupaten/Kota dengan partisipasi tertinggi ada pada Kota Banjar, Kabupaten Kuningan, dan Kabupaten Pangandaran, sedangkan yang terendah tersebar di beberapa wilayah seperti Kabupaten Tasikmalaya, Kabupaten Sumedang, dan Kabupaten Subang.
 
 ![Grafik Partisipasi per Kota/Kabupaten](image/grafik_partisipasi_kota_kabupaten.png)
 ---
